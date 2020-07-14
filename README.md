@@ -12,4 +12,8 @@ To use various commands using Git so as to build intuition with the tools comman
 
 ## How To Contribute
 
+There's nothing in particular needing to be done
+
 ## Deployment
+
+On GitHub!
