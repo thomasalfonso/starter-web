@@ -1,3 +1,4 @@
 ignored
 *.log
 /log
+*.orig
