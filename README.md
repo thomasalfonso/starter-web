@@ -17,3 +17,5 @@ There's nothing in particular needing to be done
 ## Deployment
 
 On GitHub!
+
+Copyright 2014 Git.training
