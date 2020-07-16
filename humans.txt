@@ -8,6 +8,6 @@
     To my admirers, leave a positive review
 
 # TECHNOLOGY COLOPHON
-
+    Git
     HTML5, CSS3
     jQuery, Modernizr
