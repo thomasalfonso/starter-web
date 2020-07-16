@@ -18,4 +18,4 @@ There's nothing in particular needing to be done, I'll delete this soon
 
 On GitHub!
 
-Copyright 2014 Git.training
+Copyright 2014 Git.training All rights reserved.
