@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website for testing more nuanced git commands, including rebasing, and more...
+This is a simple website for testing more nuanced git commands, including rebasing, and more... Updating stash ...
 
 ## Introduction
 
